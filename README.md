@@ -5,7 +5,7 @@ Make sure to have pip, python, node correctly installed on your system
 to launch the project:
 first clone the github repo
 
-```git clone https://github.com/Manik-Jasrai/res-u-me.git```
+```git clone https://github.com/nikhilsaini113/res-u-me.git```
 
 then run the following commands
 
