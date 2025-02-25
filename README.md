@@ -40,7 +40,7 @@ Future Prospects include:
 -improving the accuracy of the ML models
 
 Team Members:
-Alok Shukla 
-Nikhil Saini 
-Manik Jasrai 
-Suyash Mittal 
+Alok Shukla, 
+Nikhil Saini,  
+Manik Jasrai,  
+Suyash Mittal,  
