@@ -40,7 +40,7 @@ Future Prospects include:
 -improving the accuracy of the ML models
 
 Team Members:
-Alok Shukla - AI/ML
-Nikhil Saini - Frontend
-Manik Jasrai - Backend
-Suyash Mittal - AI/ML, UI/UX
+Alok Shukla 
+Nikhil Saini 
+Manik Jasrai 
+Suyash Mittal 
